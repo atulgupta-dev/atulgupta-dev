@@ -1,16 +1,100 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**atulgupta-dev/atulgupta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Atul Gupta 👋
 
-Here are some ideas to get you started:
+### AI/ML Engineer · Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building intelligent software, from thoughtful interfaces to scalable systems.**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1100&color=64748B&center=true&vCenter=true&width=620&lines=Exploring+AI+%26+Machine+Learning;Building+full-stack+applications;Learning+through+real-world+projects)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-atulgupta--dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atulgupta-dev)
+![Profile views](https://komarev.com/ghpvc/?username=atulgupta-dev&style=flat-square&color=64748b)
+
+</div>
+
+---
+
+### About me
+
+- 🎓 Computer Science student specializing in **Artificial Intelligence** at **Chitkara University**.
+- 🧠 Interested in **AI/ML**, full-stack engineering, and building useful software.
+- 🛠️ I enjoy connecting intelligent features with practical, user-focused products.
+- 📚 Sharpening my **data structures & algorithms** skills with Java and LeetCode.
+
+### Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frontend & backend**
+
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data, cloud & tools**
+
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Selected projects
+
+| Project | What it explores | Stack |
+| :-- | :-- | :-- |
+| [**Wallet Ledger**](https://github.com/atulgupta-dev/wallet-ledger) | Double-entry wallet and transaction processing architecture with messaging, caching, and concurrency controls. | Java, Spring Boot, PostgreSQL, Redis, Kafka |
+| [**Acadly**](https://github.com/atulgupta-dev/Acadly-Releases) | Classroom engagement Android app with attendance, real-time polls, Q&A, and lecture analytics. **700+ users (creator-reported)**. [Public APK releases](https://github.com/atulgupta-dev/Acadly-Releases/releases); source maintained privately. | Flutter, Dart |
+| [**CrediLink+**](https://github.com/atulgupta-dev/CrediLink-) | Learning paths, AI-generated assessments, and blockchain-verifiable credentials. | Next.js, TypeScript, Firebase, Web3 |
+| [**SpashtAI**](https://github.com/atulgupta-dev/spashtAi) | AI-assisted insurance-policy analysis, highlighting coverage, exclusions, and policy comparisons. | Next.js, React, Gemini, Firebase |
+| [**AGAM Docs**](https://github.com/atulgupta-dev/AGAM-DOCS) | Document conversion and merging across common file formats. | Django, Next.js, Python, Docker |
+| [**ThreatLens**](https://github.com/atulgupta-dev/Threat-Lens) | Interactive cybersecurity dashboard **prototype** with simulated security modules. | React, Vite, JavaScript |
+
+### GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=atulgupta-dev&show_icons=true&hide_border=true&include_all_commits=true&theme=default&rank_icon=github" alt="Atul's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulgupta-dev&layout=compact&hide_border=true&theme=default" alt="Most-used languages across public repositories" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulgupta-dev&hide_border=true&theme=default" alt="GitHub contribution streak" />
+
+</div>
+
+<details>
+<summary><b>🏆 GitHub trophies</b></summary>
+<br />
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=atulgupta-dev&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies" />
+</div>
+</details>
+
+### DSA & LeetCode
+
+I practice **data structures and algorithms**, with a focus on writing clear, efficient Java solutions.
+
+- [Explore my LeetCode solutions repository](https://github.com/atulgupta-dev/Leetcode-solutions) *(currently empty; solutions will appear when added)*
+
+### A little more about me
+
+> I like projects that make complicated things simpler — whether that means designing a reliable transaction system, making classrooms more interactive, or explaining an insurance policy.
+
+<div align="center">
+
+**Thanks for visiting!**
+
+[Explore my repositories](https://github.com/atulgupta-dev?tab=repositories)
+
+</div>
