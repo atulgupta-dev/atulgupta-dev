@@ -64,22 +64,23 @@
 
 ### GitHub activity
 
-<div align="center">
+My GitHub work spans **backend systems**, **AI-powered applications**, and **mobile & web development**. Browse the actual contributions and repositories below — no unreliable statistics snapshots.
 
-<img src="https://github-readme-stats.vercel.app/api?username=atulgupta-dev&show_icons=true&hide_border=true&include_all_commits=true&theme=default&rank_icon=github" alt="Atul's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulgupta-dev&layout=compact&hide_border=true&theme=default" alt="Most-used languages across public repositories" height="165" />
+<p align="center">
+  <a href="https://github.com/atulgupta-dev?tab=overview"><img src="https://img.shields.io/badge/View%20contributions-181717?style=flat-square&logo=github&logoColor=white" alt="View GitHub contributions" /></a>
+  <a href="https://github.com/atulgupta-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore%20repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
+  <a href="https://github.com/atulgupta-dev?tab=stars"><img src="https://img.shields.io/badge/Starred%20projects-181717?style=flat-square&logo=github&logoColor=white" alt="View starred repositories" /></a>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulgupta-dev&hide_border=true&theme=default" alt="GitHub contribution streak" />
+| Focus | Work |
+| :-- | :-- |
+| **Systems engineering** | [Wallet Ledger](https://github.com/atulgupta-dev/wallet-ledger) — distributed transactions, caching, messaging |
+| **Product development** | [Acadly](https://github.com/atulgupta-dev/Acadly-Releases) — classroom engagement Android app, **700+ users (creator-reported)** |
+| **Applied AI** | [SpashtAI](https://github.com/atulgupta-dev/spashtAi) & [CrediLink+](https://github.com/atulgupta-dev/CrediLink-) — useful AI-assisted workflows |
 
-</div>
+<sub>Live activity and contributions are available on <a href="https://github.com/atulgupta-dev">my GitHub profile</a>. This section intentionally avoids third-party image services that can fail, show misleading totals, or clash with dark mode.</sub>
 
-<details>
-<summary><b>🏆 GitHub trophies</b></summary>
-<br />
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=atulgupta-dev&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies" />
-</div>
-</details>
+---
 
 ### DSA & LeetCode
 
