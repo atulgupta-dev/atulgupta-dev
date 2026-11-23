@@ -75,7 +75,7 @@ A double-entry wallet and ledger service built around concurrency, consistency, 
 
 **Classroom technology · 700+ users**
 
-An Android classroom-engagement app for attendance, polls, quizzes, Q&A, and lecture insights. **700+ users reported by creator.** Source code is private; public APK releases are available.
+An Android classroom-engagement app for attendance, polls, quizzes, Q&A, and lecture insights. **700+ users.** Source code is private; public APK releases are available.
 
 `Flutter` `Dart` `Android`
 
